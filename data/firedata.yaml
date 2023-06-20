@@ -1,0 +1,11 @@
+
+train: E:/DATA/Fire/fire.v1i.yolov5pytorch/train/images
+val: E:/DATA/Fire/fire.v1i.yolov5pytorch/valid/images
+#test: Argoverse-1.1/images/test/  # test images (optional) https://eval.ai/web/challenges/challenge-page/800/overview
+
+nc: 2
+
+# Classes
+names: ['fire', 'smoke']
+
+
